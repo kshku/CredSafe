@@ -1,0 +1,2 @@
+# CredSafe
+A credential manager
